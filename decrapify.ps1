@@ -3,6 +3,7 @@
 #July 6 2021
 #
 #
+#
 #PURPOSE: Eliminate much of the bloat that comes with Windows 10. Change many privacy settings to be off by default. Remove built-in advertising, Cortana, OneDrive, Cortana stuff (all optional). Disable some data collection.
 #		  Clean up the start menu for new user accounts. Remove a bunch of pre-installed apps, or all of them (including the store). Create a more professional looking W10 experience. Changes some settings no longer
 #         available via GPO for Professional edition.  All of this without breaking Windows.
