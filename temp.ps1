@@ -1,4 +1,4 @@
-
+# Cut out redundanct stuff because of updated decrapify.ps1
 # Disable Wi-Fi Sense
 Write-Host "Disabling Wi-Fi Sense..."
 If (!(Test-Path "HKLM:\Software\Microsoft\PolicyManager\default\WiFi\AllowWiFiHotSpotReporting")) {
